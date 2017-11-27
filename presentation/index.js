@@ -123,8 +123,8 @@ export default class Presentation extends Component {
 				</Slide>
 				<Slide transition={["fade"]} bgColor="primary" textColor="tertiary">
 					<List>
-						<ListItem>Coding standards</ListItem>
 						<ListItem>Code quality gates</ListItem>
+						<ListItem>Coding standards</ListItem>
 						<ListItem>Typed JavaScript - TypeScript and Flow</ListItem>
 						<ListItem>Basics of Functional Programming</ListItem>
 					</List>
